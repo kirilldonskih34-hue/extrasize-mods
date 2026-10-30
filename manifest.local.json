@@ -1,0 +1,15 @@
+{
+  "_help": "Манифест каталога модов Extrasize Launcher. Положите в репозиторий как manifest.json. Категории: skin, gun, interior, timecycles. Поля мода: name (обязательно), url (обязательно, прямая ссылка на .asi/.dll), desc, author, ver, dest (необязательно: путь внутри папки игры; по умолчанию asi\\имя_файла). Перед публикацией удалите ключ _help.",
+  "skin": [
+    {
+      "name": "Пример скина",
+      "url": "https://raw.githubusercontent.com/ВАШ_НИК/extrasize-mods/main/skin/exemple.asi",
+      "desc": "Краткое описание того, что делает мод",
+      "author": "Ваш ник",
+      "ver": "1.0"
+    }
+  ],
+  "gun": [],
+  "interior": [],
+  "timecycles": []
+}
